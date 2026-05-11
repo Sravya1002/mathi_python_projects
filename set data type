@@ -1,0 +1,8 @@
+#Sets is data type in phyton which contains an array element of any other data type separated by  ','
+#Sets is mutable in nature
+#Sets items are printed in a random order
+#Sets  remove duplicate
+#Sets are declared  by '{}'
+
+new_set={'sravya':143,}
+print(new_set)

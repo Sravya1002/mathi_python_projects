@@ -1,0 +1,9 @@
+#Tuple is data type in phyton which contains an array element of any other data type separated by  ','
+#Tuple is immutable in nature
+#Tuple items are printed in the order they are created
+#Tuple are declared  by '()' round brackets
+
+First_tuple=()
+print(type(First_tuple))
+First_tuple=('sravya', 30,True,'phyton',50,)
+print(First_tuple)
